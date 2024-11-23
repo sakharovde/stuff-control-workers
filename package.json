@@ -16,5 +16,8 @@
     "vitest": "2.0.5",
     "wrangler": "^3.90.0"
   },
-  "packageManager": "yarn@4.5.2"
+  "packageManager": "yarn@4.5.2",
+  "dependencies": {
+    "itty-router": "^5.0.18"
+  }
 }

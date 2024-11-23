@@ -1530,6 +1530,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"itty-router@npm:^5.0.18":
+  version: 5.0.18
+  resolution: "itty-router@npm:5.0.18"
+  checksum: 10/69c51bdae603c83c0e2b680af398f2a123ede25de29862fd68226a64d26dec4c4b20080a69ca5d29c180e31eaf3fbcec93415f0d6dac9c3e17d2571b5ea6446a
+  languageName: node
+  linkType: hard
+
 "itty-time@npm:^1.0.6":
   version: 1.0.6
   resolution: "itty-time@npm:1.0.6"
@@ -2311,6 +2318,7 @@ __metadata:
   dependencies:
     "@cloudflare/vitest-pool-workers": "npm:^0.5.2"
     "@cloudflare/workers-types": "npm:^4.20241112.0"
+    itty-router: "npm:^5.0.18"
     typescript: "npm:^5.5.2"
     vitest: "npm:2.0.5"
     wrangler: "npm:^3.90.0"
